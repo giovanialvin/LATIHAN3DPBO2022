@@ -2,10 +2,10 @@
 Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN3 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin<br>
 
 ## Penjelasan Kode
-Untuk design yang saya buat pertama saya membuat class Processor, class Disk, dan class RAM  yang beratribut sesuai ketentuan. Alurnya kurang lebih sama seperti biasanya, membuat class, inisialisasi atribut, constructor, membuat get set methods, output, dan membuat desctructor jika diperlukan.<br>
-Untuk class PC juga kurang lebih sama, import file Processor, Disk, dan RAM jika diperlukan, membuat class, atribut juga atribut total price, constructor, get set method, output, dan destructor jika diperlukan. Bedanya atribut yang digunakan merupakan class dari Processor, Disk, dan RAM<br>.
+<P>Untuk design yang saya buat pertama saya membuat class Processor, class Disk, dan class RAM  yang beratribut sesuai ketentuan. Alurnya kurang lebih sama seperti biasanya, membuat class, inisialisasi atribut, constructor, membuat get set methods, output, dan membuat desctructor jika diperlukan.<br>
+Untuk class PC juga kurang lebih sama, import file Processor, Disk, dan RAM jika diperlukan, membuat class, atribut juga atribut total price, constructor, get set method, output, dan destructor jika diperlukan. Bedanya atribut yang digunakan merupakan class dari Processor, Disk, dan RAM.<br>
 Untuk di main/index.php, instansiasi objek Processor, Disk, RAM, dan PC, lalu gunakan 2 cara input (kecuali php karena lgi cape :( ), setelah itu tampilkan semua datanya<br>  
-  
+</p>
 ## Screenshoot Hasil Akhir
   <b>Poin A  <br>
 ![image](https://user-images.githubusercontent.com/99602640/155642647-38de4af8-7575-4a1e-a2e6-e0bf32d66f55.png)
